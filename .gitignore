@@ -1,9 +1,2 @@
 *.log
-log/*.orig >> .gitignore
-git add .gitignore
-
-
-
-git commit -m Resolved merge conflit in hello.xml
-echo *.orig
-*.orig
+log/
