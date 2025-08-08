@@ -1,1 +1,6 @@
-<message>Hello from Main</message>
+<<<<<<< HEAD
+<message>Hello from both branches</message>
+
+=======
+<message>Hello from GitWork</messages>
+>>>>>>> GitWork
